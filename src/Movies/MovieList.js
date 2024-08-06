@@ -32,7 +32,7 @@ function MovieDetails(props) {
       <div className="movie-metascore">
         Metascore: <strong>{metascore}</strong>
       </div>
-      {link}
+      {link}*
     </div>
   );
 }
